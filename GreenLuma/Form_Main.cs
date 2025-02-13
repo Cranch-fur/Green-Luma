@@ -171,13 +171,6 @@ namespace GreenLuma
                     string dynamicLibraryPath = Luma.GetDynamicLibraryPath();
                     if (File.Exists(dynamicLibraryPath))
                         File.Delete(dynamicLibraryPath);
-
-
-                    try
-                    {
-                        Luma.ClearGamesList();
-                    }
-                    catch { }
                 }
                 catch (Exception ex)
                 {
