@@ -1,4 +1,4 @@
-# GreenLuma UI
+# Green Luma UI
 GreenLuma is an unofficial tool designed to modify the Steam client. It enables users to access games and features they have not officially purchased, such as by forging licenses or activating other users’ game libraries.
 
 **Typically, GreenLuma is used to bypass the following restrictions:**
