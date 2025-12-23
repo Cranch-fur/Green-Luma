@@ -8,8 +8,8 @@ Green Luma is an unofficial tool designed to modify the Steam client. It enables
 
 <img width="256" height="256" alt="Grenn Luma GUI Logo" src="https://github.com/user-attachments/assets/f56055aa-16b1-4499-9f61-b9aa8efe9563" />
 
-# How to find the SteamAppId for a specific application?
-You can check an app's ID by opening its store page in a browser and extracting it from the address bar OR by using the third-party site [SteamDB](https://steamdb.info).
+# How to find App ID for a specific title?
+You can check an application ID by opening its store page in a browser and extracting it from the address bar OR by using the third-party site [SteamDB](https://steamdb.info).
 
 <img width="798" height="456" alt="Green Luma GUI" src="https://github.com/user-attachments/assets/728d3de8-9da4-4ee8-bdf1-d15b7eed78d2" />
 
